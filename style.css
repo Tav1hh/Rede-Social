@@ -4,3 +4,12 @@
     border: 0px;
     font: 16px normal, Arial, Helvetica, sans-serif;
 }
+body{
+    background-color: gray;
+}
+header{
+    background-color: rgb(68, 67, 67);
+}
+footer{
+    background-color: rgb(68, 67 , 67);
+}
