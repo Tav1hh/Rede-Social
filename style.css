@@ -9,13 +9,13 @@ body{
 }
 header{
     display: flex;
-    padding: 10vh;
+    height: 10vh;
     background-color: rgb(68, 67, 67);
 }
 main{
-    padding: 80vh;
+    height: 80vh;
 }
 footer{
-    padding: 10vh;
+    height: 10vh;
     background-color: rgb(68, 67 , 67);
 }
