@@ -8,6 +8,7 @@ body{
     background-color: gray;
 }
 header{
+    display: flex;
     padding: 10vh;
     background-color: rgb(68, 67, 67);
 }
